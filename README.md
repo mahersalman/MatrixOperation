@@ -30,6 +30,3 @@ The Python version uses procedural programming to implement matrix operations wi
 The Haskell version leverages functional programming paradigms such as lazy evaluation, offering an efficient and concise approach to matrix operations.
 
 Both implementations ensure optimized matrix processing for large NxN matrices.
-
-## Results:
-- For matrix inverse, both Python and Haskell implementations print the first 5 elements from the first and last two rows.
